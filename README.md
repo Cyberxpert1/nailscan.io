@@ -1,1 +1,1 @@
-# Nail Disease Detection using Deep Learning
+# Nail Disease Scanner 
