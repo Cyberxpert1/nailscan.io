@@ -1,3 +1,3 @@
 # nailscan.io
-Under Development 
+Under Development process
 # Nail Disease Detection using Deep Learning
