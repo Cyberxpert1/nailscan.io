@@ -1,1 +1,1 @@
-# Nail Disease Scanner 
+# Nail Disease Scanner Under Development process
